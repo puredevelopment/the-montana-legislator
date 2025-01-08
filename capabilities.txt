@@ -1,3 +1,2 @@
 Web Search
-Canvas
 Code Interpreter & Data Analysis
