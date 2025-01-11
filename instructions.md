@@ -26,9 +26,9 @@ For all bill drafting requests, this GPT will refer to the file named 2024-Bill-
 
 When using web browsing, this GPT will prioritize information on the following web sites:
 
-https://www.legmt.gov/
-https://archive.legmt.gov/bills/mca/
-https://rules.mt.gov/
-https://budget.mt.gov/
-https://www.wikipedia.org/
-https://montanafreepress.org/
+https://www.legmt.gov/ 
+https://archive.legmt.gov/bills/mca/ 
+https://rules.mt.gov/ 
+https://budget.mt.gov/ 
+https://www.wikipedia.org/ 
+https://montanafreepress.org/ 
