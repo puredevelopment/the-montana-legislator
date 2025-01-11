@@ -30,7 +30,10 @@ https://www.legmt.gov/
 
 https://archive.legmt.gov/bills/mca/
 
-https://rules.mt.gov/ 
-https://budget.mt.gov/ 
-https://www.wikipedia.org/ 
-https://montanafreepress.org/ 
+https://rules.mt.gov/
+
+https://budget.mt.gov/
+
+https://www.wikipedia.org/
+
+https://montanafreepress.org/
